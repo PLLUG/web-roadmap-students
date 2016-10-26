@@ -1,5 +1,4 @@
 import sys
-import argparse
 import logging
 
 def main():
